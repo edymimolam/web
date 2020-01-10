@@ -64,6 +64,17 @@
     "redux-persist": "^5.10.0",
     "redux-thunk": "^2.3.0",
     "reset.css": "^2.0.2",
-    "styled-tools": "^1.7.1"
+    "styled-tools": "^1.7.1",
+    "@aunited/auth": "",
+    "@aunited/common": "",
+    "@aunited/users": "",
+    "@ui/button": "",
+    "@ui/header": "",
+    "@ui/input": "",
+    "@ui/layout": "",
+    "@ui/link": "",
+    "@ui/text": "",
+    "@ui/theme": "",
+    "@utils/reducer": ""
   }
 }
